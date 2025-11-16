@@ -1,6 +1,6 @@
 data:
   raw_file_name: "Dementia Prediction Dataset.csv"
-  drive_url: "https://drive.google.com/file/d/19mKGPNFb35kG__3Eihazyv5O69ZUxDcF/view?usp=drive_link"
+  drive_url: "https://drive.google.com/uc?id=19mKGPNFb35kG__3Eihazyv5O69ZUxDcF"
 
 paths:
   raw_data: "artifacts/data/raw_data.csv"
